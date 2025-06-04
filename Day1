@@ -1,0 +1,12 @@
+# Day 1– Cloud Computing & AWS Setup
+
+## ✅ What I Did:
+- Learned basics of cloud models: IaaS, PaaS, SaaS
+- Understood public vs private vs hybrid cloud
+- Created AWS Free Tier account
+- Set up IAM user + enabled MFA for security
+
+## 🔗 Resources:
+- [AWS Skill Builder – Cloud Essentials](https://explore.skillbuilder.aws/learn/course/134/aws-cloud-practitioner-essentials)
+- [AWS Free Tier](https://aws.amazon.com/free)
+
