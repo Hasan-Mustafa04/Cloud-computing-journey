@@ -1,0 +1,13 @@
+# AWS Cloud Practitioner Essentials – Notes & Practice
+
+🧠 Summary:
+This repo contains my personal notes and hands-on exercises from the AWS Cloud Practitioner Essentials course. It covers cloud fundamentals, AWS services, security, billing, and architecture.
+
+✅ Modules Covered:
+- Module 1–4: Cloud Basics + Core AWS Services
+- Module 5–7: Security, IAM, Billing
+- Module 8–11: Architecture & Adoption (coming soon)
+
+📌 Goal: To build a strong foundation in AWS as part of my journey into cloud + data engineering.
+
+Next up: Launching EC2 + deploying a Flask app 🚀
