@@ -1,0 +1,77 @@
+
+# AWS Cloud Practitioner Essentials – Course Completion
+
+🎓 This repository contains my notes, summaries, and resources from completing the **AWS Cloud Practitioner Essentials** course offered by Amazon Web Services.
+
+---
+
+## ✅ Course Overview
+
+The course covered the foundational concepts of AWS, cloud computing, and real-world applications across:
+
+- 🧠 Cloud Concepts & Value Proposition
+- ☁️ Core AWS Services: EC2, S3, Lambda, RDS, VPC, CloudFront
+- 🔐 Security & IAM (Identity and Access Management)
+- 💰 Billing, Pricing, and Support Plans
+- 🧱 Cloud Architecture & Design Principles
+
+---
+
+## 📚 What I Learned
+
+- Difference between traditional and cloud computing models
+- How to navigate and use the AWS Management Console
+- Understanding shared responsibility in cloud security
+- How to estimate AWS costs using the AWS Pricing Calculator
+- Core services and when to use them: EC2, S3, Lambda, RDS
+- IAM roles, policies, MFA, and security best practices
+
+---
+
+## 🔧 Tools & Services Explored
+
+| Category         | Services                           |
+|------------------|------------------------------------|
+| Compute          | EC2, Lambda, Elastic Beanstalk     |
+| Storage          | S3, EBS, Glacier                   |
+| Database         | RDS, DynamoDB, Aurora              |
+| Networking       | VPC, Route 53, CloudFront          |
+| Security         | IAM, AWS Shield, KMS               |
+| Billing & Support| Pricing Calculator, Cost Explorer  |
+
+---
+
+## 🚀 What's Next
+
+I'm now moving into hands-on AWS practice:
+- Launching and configuring my first EC2 instance
+- Hosting a static site on S3
+- Building and deploying a Python app to the cloud
+- Combining AWS with Python, Pandas, and SQL for data projects
+
+Stay tuned! More repos and cloud-based projects are coming soon.
+
+---
+
+## 📌 About Me
+
+I’m currently building my skills in **cloud computing, data analytics, and DevOps**.  
+This repo is part of my 8-week upskilling journey into becoming a cloud-fluent data professional.
+
+ 
+
+# Certification Progress
+
+✅ Module 1: Cloud Concepts  
+✅ Module 2: Core Services  
+✅ Module 3: Pricing and Support  
+✅ Module 4: Compute and Storage  
+✅ Module 5: IAM and Security  
+✅ Module 6: Architecting in AWS  
+✅ Module 7: Billing and Pricing  
+✅ Module 8: Cloud Adoption Framework  
+✅ Module 9: Migration and Innovation  
+✅ Module 10: Review  
+✅ Module 11: Final Assessment  
+
+🎉 Course Completed:  15 June 2025
